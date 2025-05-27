@@ -39,6 +39,7 @@ See our [demostration video](https://www.youtube.com/watch?v=nuTp5R2rRJ4&t=2s) o
 
 ### More Info
 Scan QRcode to see our slide on this project.
+
 ![slide QRcode](readme_image/slide.png)
 
 ## Introduction
@@ -48,9 +49,7 @@ Our application leverages the ubiquitous smartphone camera to perform real-time 
 
 ### Methods
 As the graph shown below, there is a formula：
-$$
-\frac{Y_1}{Y_2} = \frac{L_1}{L_2}
-$$
+$\frac{Y_1}{Y_2} = \frac{L_1}{L_2}$
 
 #### Vertical Distance
 ![Vertical Distance method diagram](readme_image/method_1.png)
@@ -71,6 +70,7 @@ Therefore, before performing detection, it is necessary to calibrate the system 
 
 #### Horozontal Distance
 ![Horozontal Distance method diagram](readme_image/method_2.png)
+
 $Y_1$: Horizontal position relative to the camera (unknown)
 
 $Y_2$: Horizontal distance between the detected object and the center of the image (known)
