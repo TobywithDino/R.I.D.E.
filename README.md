@@ -2,7 +2,7 @@
 R.I.D.E., which stands for Realtime Identification for Driving Environment, is a senior project developed in the Department of Computer Science and Information Engineering at National Central University.
 
 ## Team Members & Advisor
-Team Members: Yu-Hsiang Hsu (許煜祥), Cheng-Ju Chuang (莊承儒)
+Team Members: Yu-Hsiang Hsu (許煜祥), Cheng-Ru Chuang (莊承儒)
 
 Advisor: Prof. Hung-Hsuan Chen (陳弘軒)
 
