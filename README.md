@@ -1,4 +1,4 @@
-# R.I.D.E. (Realtime Identification for Driving Environment)
+# R.I.D.E. (Real-time Identification for Driving Environment)
 R.I.D.E., which stands for Realtime Identification for Driving Environment, is a senior project developed in the Department of Computer Science and Information Engineering at National Central University.
 
 ## Team Members & Advisor
